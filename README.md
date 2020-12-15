@@ -1,2 +1,2 @@
-# Project_21
-This game is to check effectiveness of wall against bullets
+# p5.play-boilerplate
+Boiler plate for p5.play
